@@ -1,4 +1,4 @@
-# Desmos-Like Graphing Calculator in Java
+# Graphing Software in Java
 
 A graphing tool built in Java, inspired by Desmos. This project allows users to input mathematical expressions and visualize their graphs in a simple GUI.
 

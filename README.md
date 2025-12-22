@@ -31,5 +31,5 @@ A graphing tool built in Java, inspired by Desmos. This project allows users to 
 
 ## Usage
 
-1. Download Java 22 or newer
+1. Download the JAR file and have JAVA installed
 2. Run the JAR File

@@ -23,7 +23,7 @@ A graphing tool built in Java, inspired by Desmos. This project allows users to 
   - `sin`, `cos`, `tan`  
   - `asin`, `acos`, `atan`  
   - `ln`, `log`  
-- **Precision Issues:** The custom MathEngine uses Taylor series approximations, which may be inaccurate for very large inputs.  
+- **Precision Issues:** The custom MathEngine uses Taylor series approximations, which may be inaccurate for very large inputs and causes small discontinuities in functions such as sin(x) during sign switches. 
 - **No Multi-Variable Support:** Only single-variable functions of `x` are supported.  
 - **No Implicit Error Handling:** Some invalid expressions may throw runtime exceptions.  
 
